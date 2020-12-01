@@ -2,7 +2,7 @@
 
 # JavaScript30
 
-Starter Files + Personal solutions for the JavaScript 30 Day Challenge.
+Starter Files + Personal solutions for the Wes Bos's JavaScript 30 Day Course.
 
 
 
